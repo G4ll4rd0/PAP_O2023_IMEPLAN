@@ -1,0 +1,18 @@
+4 graficas: Natural, agrupando auto, excluyendo caminar, agrupando y excluyendo
+	- debe haber un umbral minimo de distancia para caminando, este estudio tuvo errores metodologicos en la modalidad de caminar
+Unir censo 2015 con zonificación
+
+
+Graficas de coorrelación spearman
+
+
+23/11/2023
+- Tunear la red
+- Integrar al Toolboox
+- Escribir el documento
+- Hacer presentación
+
+Descargar kepler y hacer dos visualicaziones
+https://github.com/keplergl/kepler.gl/blob/master/docs/keplergl-jupyter/README.md
+ - Atracción y generación de viajes por zona
+ - Lineas de deseo (flujo de personas de punto a punto)
